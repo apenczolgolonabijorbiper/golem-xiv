@@ -32,6 +32,7 @@ include(
     ":golem-xiv-core",
     ":golem-xiv-neo4j",
     ":golem-xiv-cognizer-anthropic",
+    ":golem-xiv-cognizer-delegated",
 //    ":golem-xiv-cognizer-dashscope",
     ":golem-xiv-playwright",
     ":golem-xiv-server",
